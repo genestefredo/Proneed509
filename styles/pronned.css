@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&family=Rock+Salt&display=swap');
 body{
-    background-color: #78c5d7;
+    background-color: rgba(255, 255, 255, 0.893);
     font-size: 22px;
     font-family: 'Rock Salt', Arial, sans-serif;
     margin: 0;
@@ -315,4 +315,7 @@ footer {
     footer {
         margin-top: 25px;
     }
+}
+p{
+    text-align: center;
 }
