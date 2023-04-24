@@ -32,9 +32,7 @@ nav a {
 #hero1-msg h1, #hero1-msg h4 {
     text-align: center;
 }
-
-  
-.button-box {
+  .button-box {
     text-align: center;
 }
 
@@ -179,15 +177,13 @@ h2{
     width: 90%;
 }
 .lesson{
-    
         border: 10px solid #d9c2a3;
         transition: transform .5s;
         box-shadow: 5px 5px 10px #6f7364;
         margin-left: 20px;
         margin-top: -45px;  
         width: 90%;
-        
-}
+        }
 .ms1  {
 text-align: center;
 margin-top: -240px;
@@ -221,11 +217,59 @@ z-index: -1;
     grid-template-columns: 1/fr /1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .baby-grid{
-    display: grid;
-    grid-template-columns: 1/fr /1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;  
+    display:block;
+}
+.chil1{
+    width: 260px;
+    height: 250px;
+}
+.chil2{
+    width: 260px;
+    height: 250px;
+}
+.chil3{
+    width: 260px;
+    height: 250px;
+}
+.chil4{
+    width: 260px;
+    height: 250px;
+}
+
+.chil5{
+    width: 260px;
+    height: 250px;
+}
+.chil6{
+    width: 260px;
+    height: 250px;
+}
+.chil7{
+    width: 260px;
+    height: 250px;
+}
+.chil8{
+    width: 260px;
+    height: 250px;
 }
 
 
+.chil9{
+    width: 260px;
+    height: 250px;
+}
+.chil10{
+    width: 260px;
+    height: 250px;
+}
+.chil11{
+    width: 260px;
+    height: 250px;
+}
+.chil12{
+    width: 260px;
+    height: 250px;
+}
 .rivers-card{
     grid-column: 2/4;
     grid-row: 2/3;
