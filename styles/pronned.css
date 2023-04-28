@@ -214,61 +214,12 @@ z-index: -1;
 }
 .home-grid{
     display: grid;
-    grid-template-columns: 1/fr /1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
-.baby-grid{
-    display:block;
-}
-.chil1{
-    width: 260px;
-    height: 250px;
-}
-.chil2{
-    width: 260px;
-    height: 250px;
-}
-.chil3{
-    width: 260px;
-    height: 250px;
-}
-.chil4{
-    width: 260px;
-    height: 250px;
-}
+.chil{
+    display: inline;
+    width: 30%;
 
-.chil5{
-    width: 260px;
-    height: 250px;
-}
-.chil6{
-    width: 260px;
-    height: 250px;
-}
-.chil7{
-    width: 260px;
-    height: 250px;
-}
-.chil8{
-    width: 260px;
-    height: 250px;
-}
-
-
-.chil9{
-    width: 260px;
-    height: 250px;
-}
-.chil10{
-    width: 260px;
-    height: 250px;
-}
-.chil11{
-    width: 260px;
-    height: 250px;
-}
-.chil12{
-    width: 260px;
-    height: 250px;
 }
 .rivers-card{
     grid-column: 2/4;
