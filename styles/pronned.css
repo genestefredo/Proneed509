@@ -216,11 +216,10 @@ z-index: -1;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
-.chil{
+.chil , h3{
     display: inline;
-    width: 30%;
+    width: 30%;}
 
-}
 .rivers-card{
     grid-column: 2/4;
     grid-row: 2/3;
@@ -311,6 +310,6 @@ footer {
         margin-top: 25px;
     }
 }
-p{
+p {
     text-align: center;
 }
